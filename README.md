@@ -1,5 +1,5 @@
 # Python for Finance Professionals 
-This repo contains all teaching materials (resources, notebooks, scripts) for my Python for Finance for Professionals lecture series given to QUAAF.
+This repo contains all teaching materials (resources, notebooks, scripts) for Brandon Toushan's Python for Finance for Professionals lecture series given to QUAAF.
 
 Example: Efficient Horizon Visualization [Potential Tech Portfolios] 
 
